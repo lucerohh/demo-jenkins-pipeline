@@ -11,4 +11,9 @@ class DemojenkinspipelineApplicationTest {
         assertEquals(2, 1 + 1);
     }
 
+    @Test
+    public void testMessage2() {
+        assertEquals(5, 2 + 3);
+    }
+
 }
